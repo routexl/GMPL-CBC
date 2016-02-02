@@ -16,10 +16,10 @@ Read more at https://projects.coin-or.org/Cbc
 
 ## Install
 
-1. Download and install the GLPK and CBC stand-alone solvers: glpsol.exe and cbc.exe
+1. Download the GLPK and CBC stand-alone solvers: glpsol.exe and cbc.exe
 2. Save gmplcbc.bat on your PC
-3. Adjust the settings.
+3. Adjust the settings in the .bat file
  
 ##  Run
 
-gmplcbc.bat &st;yourproblemfile.mod&gt;
+gmplcbc.bat &#60;yourproblemfile.mod&gt;
