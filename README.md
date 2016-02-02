@@ -22,4 +22,4 @@ Read more at https://projects.coin-or.org/Cbc
  
 ##  Run
 
-gmplcbc.bat <yourproblemfile.mod>
+gmplcbc.bat &st;yourproblemfile.mod&gt;
